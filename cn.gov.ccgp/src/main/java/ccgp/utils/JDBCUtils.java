@@ -14,9 +14,9 @@ public class JDBCUtils {
 	//��̬�����
 	static {
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver"); // ����Ҫ���ӵ����ݿ������
-		dataSource.setUrl("jdbc:mysql://172.16.234.141/ccgp?useUnicode=true&characterEncoding=utf-8&useSSL=false"); //ָ��Ҫ���ӵ����ݿ��ַ
-		dataSource.setUsername("root"); //ָ��Ҫ�������ݵ��û���
-		dataSource.setPassword("12345678"); //ָ��Ҫ�������ݵ�����
+		dataSource.setUrl("jdbc:mysql://ccgp?useUnicode=true&characterEncoding=utf-8&useSSL=false"); //ָ��Ҫ���ӵ����ݿ��ַ
+		dataSource.setUsername(""); //ָ��Ҫ�������ݵ��û���
+		dataSource.setPassword(""); //ָ��Ҫ�������ݵ�����
 	}
 	/*
 	 * �������ӳض���

@@ -1,9 +1,9 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : root@172.16.234.141ps12345678
+Source Server         : 
 Source Server Version : 50718
-Source Host           : 172.16.234.141:3306
+Source Host           : 
 Source Database       : ccgp
 
 Target Server Type    : MYSQL
